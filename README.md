@@ -56,6 +56,6 @@ Pontifícia Universidade Católica de Minas Gerais (PUC-Minas), Belo Horizonte
 
 <div align="center">
   <a href="https://github.com/EnzoAlvesBarcelosGripp">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EnzoGripp&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoGripp&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EnzoAlvesBarcelosGripp&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoAlvesBarcelosGripp&layout=compact&langs_count=7&theme=dracula"/>
 </div>
