@@ -43,6 +43,10 @@ Pontifícia Universidade Católica de Minas Gerais (PUC-Minas), Belo Horizonte
 
 ---
 
+![Dinossauro do GitHub](https://raw.githubusercontent.com/DenverCoder1/dino-readme-svg/main/dist/dino.svg)
+
+---
+
 ### Projetos Acadêmicos e Pessoais
 <br>
 
