@@ -48,7 +48,9 @@ Pontifícia Universidade Católica de Minas Gerais (PUC Minas), Belo Horizonte
 ---
 
 <p align="center">
-  <img src="https://github.com/DenverCoder1/dino-readme/blob/main/assets/dino.gif?raw=true" alt="Dinossauro do GitHub"/>
+  <a href="https://github.com/DenverCoder1/github-readme-dino">
+    <img src="https://github.com/DenverCoder1/github-readme-dino/raw/main/dino.gif" alt="Dinossauro correndo no GitHub" />
+  </a>
 </p>
 
 
