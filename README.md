@@ -44,12 +44,47 @@
 
 ##  Projects
 
--  Data analysis notebooks (Python)
--  Logic and algorithm exercises (C, C++, Python)
--  Machine Learning mini-projects (coming soon)
--  Academic and personal repositories
+---
+
+### 🔹 Brazil Data Professionals' Salary Gap Analysis
+
+🔗 **Repository:** [https://github.com/EnzoAlvesBarcelosGripp/Analise-da-disparidade-salarial](https://github.com/EnzoAlvesBarcelosGripp/Analise-da-disparidade-salarial)
+
+**Description:**
+A study identifying the variables that impact the compensation of data professionals in Brazil, using data from the **State of Data Brazil 2023** survey. The project explores how experience, academic background, industry sector, and location influence income. Through predictive modeling, the results highlight that seniority levels and company sectors are the primary drivers of salary variation, providing strategic insights for career planning and corporate compensation policies.
+
+**Note:** This project was done collaboratively.
 
 ---
+
+### 🔹 BD Star7 (Database Project)
+
+🔗 **Repository:** [https://github.com/ThiagoVenturim/bd_star7](https://github.com/ThiagoVenturim/bd_star7)
+
+**Description:**
+A comprehensive database modeling and implementation project, including ERD (Entity-Relationship Diagram), ERM, table creation, data seeding, normalization, and advanced SQL queries.
+
+**Note:** This project was done collaboratively.
+
+---
+
+### 🔹 Banks vs. Fintechs – Financial Sector Transformation Analysis
+
+🔗 **Repository:** [https://github.com/ThiagoVenturim/banco-vs-fintech](https://github.com/ThiagoVenturim/banco-vs-fintech)
+
+**Description:**
+Data analysis project based on the **State of Data Brazil (2022–2024)** survey. Focuses on the "Fintechization" of traditional banks and the "Banking-up" of fintechs, using Python, statistics, and visualization to understand the market and predict patterns with Machine Learning.
+
+**Note:** This project was done collaboratively.
+
+---
+
+### 🔸 Sales Report Automation (ETL & BI)
+
+🔗 **Repository:** [https://github.com/EnzoAlvesBarcelosGripp/PROJETO---Automatiza-o-de-Relat-rio-de-Vendas](https://github.com/EnzoAlvesBarcelosGripp/PROJETO---Automatiza-o-de-Relat-rio-de-Vendas)
+
+**Description:**
+This project automates the processing of sales history data, transitioning from static Excel files to a structured relational database. It involves end-to-end data cleaning, transformation, and loading (ETL) to power dynamic reports in **Power BI**. The solution replaces manual data handling with a scalable pipeline, ensuring data integrity and providing real-time business insights through interactive dashboards.
 
 ##  Social & Contact
 
