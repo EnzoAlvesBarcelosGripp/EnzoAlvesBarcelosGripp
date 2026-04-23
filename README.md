@@ -79,7 +79,7 @@ Data analysis project based on the **State of Data Brazil (2022–2024)** survey
 
 ---
 
-### 🔸 Sales Report Automation (ETL & BI)
+### 🔸 Sales Report Automation (ETL & BI) - ON GOING
 
 🔗 **Repository:** [https://github.com/EnzoAlvesBarcelosGripp/PROJETO---Automatiza-o-de-Relat-rio-de-Vendas](https://github.com/EnzoAlvesBarcelosGripp/PROJETO---Automatiza-o-de-Relat-rio-de-Vendas)
 
