@@ -45,6 +45,16 @@
 ##  Projects
 
 ---
+### 🔸 World Cup predictor
+
+🔗 **Repository:** [https://github.com/EnzoAlvesBarcelosGripp/wc26-match-predictor](https://github.com/EnzoAlvesBarcelosGripp/wc26-match-predictor)
+
+**Description:**
+A personal data mining and machine learning project that utilizes APIs and web scraping to merge international soccer match data with external datasets. Features the application of temporal techniques for variable discretization, missing data imputation, and Monte Carlo simulations.
+
+
+
+---
 
 ### 🔹 Brazil Data Professionals' Salary Gap Analysis
 
@@ -77,14 +87,6 @@ Data analysis project based on the **State of Data Brazil (2022–2024)** survey
 
 **Note:** This project was done collaboratively.
 
----
-
-### 🔸 Sales Report Automation (ETL & BI) - ON GOING
-
-🔗 **Repository:** [https://github.com/EnzoAlvesBarcelosGripp/PROJETO---Automatiza-o-de-Relat-rio-de-Vendas](https://github.com/EnzoAlvesBarcelosGripp/PROJETO---Automatiza-o-de-Relat-rio-de-Vendas)
-
-**Description:**
-This project automates the processing of sales history data, transitioning from static Excel files to a structured relational database. It involves end-to-end data cleaning, transformation, and loading (ETL) to power dynamic reports in **Power BI**. The solution replaces manual data handling with a scalable pipeline, ensuring data integrity and providing real-time business insights through interactive dashboards.
 
 ##  Social & Contact
 
