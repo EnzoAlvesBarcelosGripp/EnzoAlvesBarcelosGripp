@@ -12,7 +12,7 @@
 
 -  Undergraduate in **Data Science & Artificial Intelligence** at **PUC Minas**.
 -  Passionate about technology, programming, data, and AI.
--  Constantly learning C, C++, Python, and data tools.
+-  Constantly learning Python, and data tools.
 -  Looking for collaborations in tech projects and open-source.
 -  Focused on developing problem-solving and critical thinking skills.
 -  Lifelong learner with an interest in AI, data analysis, and software engineering.
